@@ -1,0 +1,22 @@
+id: A7F2F4E4C
+title: Udānavarga
+type: translation
+pechas:
+- I9244B93E
+- IFABEABE1
+- IBB144841
+- ICED800BA
+source_metadata:
+  languages:
+  - sa
+  - zh
+  - bo
+  - en
+  datatype: PlainText
+  created_at: 2023-02-10 00:40:36.545341
+  last_modified_at: 2023-02-10 00:40:36.545369
+alignment_to_base:
+  I9244B93E/C9C5: D90C
+  IFABEABE1/D04D: D90C
+  IBB144841/7C80: D90C
+  ICED800BA/87D5: D90C
